@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "simple-http",
+  "version": "1.0.0",
+  "main": "generateDataFiles.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
